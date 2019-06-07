@@ -185,8 +185,8 @@ UIComponent.initializeGame(3)
 
 
 // reoccurance formula
-//memozition//dynamic programming
-//matrxi,steps
+//memoization // dynamic programming
+//matrix,steps
 
 
 
