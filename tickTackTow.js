@@ -16,7 +16,7 @@ Blocks.prototype.getCount = function() {
 }
 
 
-var UIComponent = {
+window.UIComponent = {
     selector: "body",
     container: "<div class='container' style='width: 80%; height: 80%; background-color: #ccc; position: fixed; top: 0; bottom: 0; left: 0; right: 0; margin: 10%;'>User:<span id='user'>Host</span><div id='container'></div></div>",
     DOM: document.querySelector("body").attachShadow({ mode: "open" }),
